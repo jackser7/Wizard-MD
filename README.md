@@ -7,7 +7,7 @@
 <a href="#"><img title="JACK MULTI DEVICE" src="https://img.shields.io/badge/JACK MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-AJMAL-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ajmal-Achu"><img title="Author"JACK SER src="https://img.shields.io/badge/Author JACK-red.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
 <a href="https://github.com/Ajmal-Achu/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajmal-Achu?color=blue&style=flat-square"></a>
 <a href="https://github.com/Ajmal-Achu"><img title="Stars" src="https://img.shields.io/github/stars/Ajmal-Achu/Wizard-MD?color=blue&style=flat-square"></a>
@@ -66,7 +66,7 @@ And Many More Features Are Available 😊
 ---|---
 [AJMAL](https://github.com/Ajmal-Achu)  | [ABHI](https://github.com/Ajmal-Achu/Wizard-MD)
 DEVELOPER| FOR HELP |
-<a href="https://github.com/V1P3R-X"><img src="https://github.com/V1P3R-X.png?size=100" width="100" height="100"></a> | [![WIZARD MD](https://github.com/Neeraj-X0.png?size=100)](https://github.com/Neeraj-X0) 
+<a href="https://github.com/V1P3R-X"><img src="https://github.com/V1P3R-X.png?size=100" width="100" height="100"></a> | [![JACK MD](https://github.com/Neeraj-X0.png?size=100)](https://github.com/Neeraj-X0) 
 [V1P3R-X](https://github.com/V1P3R-X)  | [Neeraj-X0](https://github.com/Neeraj-X0)
 CONTRIBUTOR| CONTRIBUTOR |
 <a href="https://github.com/Lord-official"><img src="https://github.com/Lord-official.png?size=100" width="100" height="100"></a> | [![WIZARD MD](http://github.com/SafwanGanz.png?size=100)](http://github.com/SafwanGanz) 
